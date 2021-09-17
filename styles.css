@@ -1,4 +1,9 @@
 img{
+    margin-bottom: 15px;
     width: 100%;
     height: auto;
+}
+
+h3{
+    padding-top: 50px;
 }
